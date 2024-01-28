@@ -1112,7 +1112,7 @@ img {
      background-color: var(--ocean, #404bbf);
 }
 
-.visually-hidden:checked + .checkbox-terms-conditions .checkbox-modal-window {
+.checkbox-container:checked + .checkbox-terms-conditions .checkbox-modal-window {
      background-color: var(--ocean, #404bbf);
      border: none;
      fill: var(--CLOUD, #F4F4FD);
